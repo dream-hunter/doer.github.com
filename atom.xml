@@ -2,15 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-02-14T18:07:43+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://dream-hunter.github.io/atom.xml" rel="self"/>
+  <link href="http://dream-hunter.github.io/"/>
+  <updated>2014-02-14T18:25:02+08:00</updated>
+  <id>http://dream-hunter.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://dream-hunter.github.io/blog/2014/02/14/test/"/>
+    <updated>2014-02-14T18:24:10+08:00</updated>
+    <id>http://dream-hunter.github.io/blog/2014/02/14/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
